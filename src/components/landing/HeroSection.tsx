@@ -18,7 +18,7 @@ const HeroSection = () => (
             <Shield className="h-3.5 w-3.5" /> Secure & Trusted Health Platform
           </div>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-extrabold leading-tight mb-4">
-            <span className="gradient-text">SwasthyaSetu</span>
+            <span className="gradient-text">AyuVault</span>
           </h1>
           <p className="text-lg font-medium text-muted-foreground mb-2">
             One Citizen • One Health Record • Anytime • Anywhere
