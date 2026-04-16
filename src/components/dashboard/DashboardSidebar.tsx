@@ -33,7 +33,7 @@ const DashboardSidebar = () => {
       <SidebarContent>
         <div className={`flex items-center gap-2 p-4 ${collapsed ? "justify-center" : ""}`}>
           <Heart className="h-6 w-6 text-primary shrink-0" />
-          {!collapsed && <span className="font-heading font-bold text-foreground text-lg">SwasthyaSetu</span>}
+          {!collapsed && <span className="font-heading font-bold text-foreground text-lg">AyuVault</span>}
         </div>
 
         <SidebarGroup>
