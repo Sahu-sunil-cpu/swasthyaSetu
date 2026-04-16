@@ -30,7 +30,7 @@ const Login = () => {
           <div className="text-center mb-8">
             <Link to="/" className="inline-flex items-center gap-2 mb-4">
               <Heart className="h-8 w-8 text-primary" />
-              <span className="text-2xl font-heading font-bold text-foreground">SwasthyaSetu</span>
+              <span className="text-2xl font-heading font-bold text-foreground">AyuVault</span>
             </Link>
             <p className="text-sm text-muted-foreground">Sign in to your health account</p>
           </div>
